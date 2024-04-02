@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #004666;
+}
+
+#weatherInfo {
+    margin-top: 20px;
+}
